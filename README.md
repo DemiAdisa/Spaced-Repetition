@@ -5,5 +5,5 @@ An APK of the built application can be found in the "Releases" tab of the repo.
 
 The application makes use of the [Spaced Repetition](https://en.wikipedia.org/wiki/Spaced_repetition) concept to help students remember study materials better. I was responsible for the Frontend of the application during the course. It was developed using Dart, Firebase and Flutter.
 
-# Note
-Due to completion of the course and the disbandment of the group, the backend service for the application has been dissolved an the application is no longer viable. This is just the code for fututre referencing.
+# Please Note
+Due to completion of the course and the disbandment of the group, the backend service for the application has been dissolved and this application is no longer viable. This is just the code for fututre referencing.
